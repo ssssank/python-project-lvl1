@@ -19,3 +19,8 @@ Answer "yes" if the number is even, otherwise answer "no".
 
 What is the result of the expression?
 [![asciicast](https://asciinema.org/a/n6WW26ibLKTLsOoAzzM3xK9nT.svg)](https://asciinema.org/a/n6WW26ibLKTLsOoAzzM3xK9nT)
+
+## Brain-gcd game
+
+Find the greatest common divisor of given numbers.
+[![asciicast](https://asciinema.org/a/77FaPZitiJSUcFzrfRtcxlbEE.svg)](https://asciinema.org/a/77FaPZitiJSUcFzrfRtcxlbEE)
