@@ -24,3 +24,7 @@ What is the result of the expression?
 
 Find the greatest common divisor of given numbers.
 [![asciicast](https://asciinema.org/a/77FaPZitiJSUcFzrfRtcxlbEE.svg)](https://asciinema.org/a/77FaPZitiJSUcFzrfRtcxlbEE)
+
+## Brain-progression game
+What number is missing in the progression?
+[![asciicast](https://asciinema.org/a/72cS7fGB6St6qXtpQxP07O6NP.svg)](https://asciinema.org/a/72cS7fGB6St6qXtpQxP07O6NP)
