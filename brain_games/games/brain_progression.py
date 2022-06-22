@@ -1,10 +1,10 @@
-from prompt import string
 from brain_games.helpers import get_random_int
 from brain_games.engine import start_game
 from brain_games.engine import GAME_ROUNDS
 
 description = 'What number is missing in the progression?'
 progression_length = 10
+
 
 def get_progression(start, step):
     progression = []
@@ -13,6 +13,7 @@ def get_progression(start, step):
         progression.append(str(start + step * i))
         i += 1
     return progression
+
 
 def prepare_round():
     start = get_random_int(30)
@@ -23,6 +24,7 @@ def prepare_round():
     progression[hidden_position] = '..'
     question = f'{" ".join(progression)}'
     return [question, answer]
+
 
 def run_game():
     rounds = []

@@ -1,5 +1,4 @@
 from prompt import string
-from brain_games.helpers import get_random_int
 
 
 GAME_ROUNDS = 3
