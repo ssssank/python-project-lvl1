@@ -28,3 +28,7 @@ Find the greatest common divisor of given numbers.
 ## Brain-progression game
 What number is missing in the progression?
 [![asciicast](https://asciinema.org/a/72cS7fGB6St6qXtpQxP07O6NP.svg)](https://asciinema.org/a/72cS7fGB6St6qXtpQxP07O6NP)
+
+## Brain-prime game
+Answer "yes" if the number is even, otherwise answer "no".
+[![asciicast](https://asciinema.org/a/rut9Z63BTWdzbQ1gB5pFBKtqY.svg)](https://asciinema.org/a/rut9Z63BTWdzbQ1gB5pFBKtqY)
