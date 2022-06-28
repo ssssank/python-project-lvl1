@@ -1,5 +1,5 @@
-from random import random
+from random import randint
 
 
-def get_random_int(max):
-    return round(random() * max)
+def get_random_int(min=0, max=50):
+    return randint(min, max)

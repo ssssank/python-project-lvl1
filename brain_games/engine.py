@@ -1,17 +1,17 @@
 from prompt import string
 
 
-GAME_ROUNDS = 3
+GAME_ROUND = 3
 
 
-def start_game(description, rounds):
+def play_game(game):
     print('Welcome to the Brain Games!')
     name = string('May I have your name? ')
     print(f'Hello, {name}')
-    print(description)
+    print(game.DESCRIPTION)
 
-    for round in rounds:
-        [question, answer] = round
+    for i in range(GAME_ROUND):
+        (question, answer) = game.prepare_round()
 
         print(f'Question: {question}')
         userAnswer = string('Your answer: ')
