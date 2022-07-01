@@ -4,6 +4,7 @@
 
 [![Actions Status](https://github.com/ssssank/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/ssssank/python-project-lvl1/actions)
 ![push](https://github.com/ssssank/python-project-lvl1/actions/workflows/push.yml/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/3f2be5feb3b19676cf83/maintainability)](https://codeclimate.com/github/ssssank/python-project-lvl1/maintainability)
 
 ## Description
 
