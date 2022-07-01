@@ -24,4 +24,4 @@ def prepare_round():
     operation = choice(operations)
     question = f'{number_one} {operation} {number_two}'
     answer = str(calculate(number_one, operation, number_two))
-    return (question, answer)
+    return question, answer

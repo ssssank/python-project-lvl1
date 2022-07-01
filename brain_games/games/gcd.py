@@ -12,4 +12,4 @@ def prepare_round():
     number_two = get_random_int(0, 20)
     question = f'{number_one} {number_two}'
     answer = str(get_gcd(number_one, number_two))
-    return (question, answer)
+    return question, answer

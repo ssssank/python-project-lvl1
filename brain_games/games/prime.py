@@ -18,4 +18,4 @@ def prepare_round():
     number = get_random_int(0, 100)
     answer = 'yes' if is_prime(number) else 'no'
     question = str(number)
-    return (question, answer)
+    return question, answer
