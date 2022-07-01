@@ -1,7 +1,7 @@
 from prompt import string
 
 
-GAME_ROUND = 3
+ROUNDS_COUNT = 3
 
 
 def play_game(game):
@@ -10,8 +10,8 @@ def play_game(game):
     print(f'Hello, {name}')
     print(game.DESCRIPTION)
 
-    for i in range(GAME_ROUND):
-        (question, answer) = game.prepare_round()
+    for i in range(ROUNDS_COUNT):
+        question, answer = game.prepare_round()
 
         print(f'Question: {question}')
         userAnswer = string('Your answer: ')
